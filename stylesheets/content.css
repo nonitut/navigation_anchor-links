@@ -18,6 +18,8 @@ p, ul, ol, li , h2{
 h2{
     font-size: 50px;
 }
+p{ color: aliceblue;
+}
 
 nav {
     background-color: #7170b9;
